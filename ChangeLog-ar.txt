@@ -1,4 +1,4 @@
-{"version_code":451197,"content":"
+{"version_code":451199,"content":"
 
 
 <li>رسالة دعم للمطور</li>
@@ -14,5 +14,5 @@
 <li>هذه الرسالة سيتم إيقافها قريباً</li>
 
 
-","url":"http://www.ismail-mods.tk/p/blog-page_6.html"
+","url":"http://www.ismail-mods.tk/p/blog-page_21.html"
 }
