@@ -1,4 +1,4 @@
-{"version_code":451100,"content":"
+{"version_code":451201,"content":"
 <p>تحديث 3.60</p>
 
 <li>التحديث لنسخة الماركت 2.18.9</li>
@@ -53,5 +53,5 @@
 <li> Fixed Crash On Some Devices</li>
 <li> Many More Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"http://www.ismail-mods.tk/2018/02/iswhatsapp-v360.html"
 }
