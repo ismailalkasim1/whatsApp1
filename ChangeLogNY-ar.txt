@@ -1,30 +1,348 @@
-{"version_code":451200,"content":"
-<p>تحديث 1.00</p>
+{"version_code":451203,"content":"
+<p>تحديث 1.1</p>
 
 <li>السلام عليكم ورحمة الله وبركاته</li>
-<li>تحديث  NYWhatsApp</li> 
-<li>اصدار رقم (1.00)</li>
-<li>التحديث اصلاحي لجميع المشاكل</li>
-<li>com.nywhatsapp</li>
-<li>com.nywhatsapp1</li>
-<li>com.whatsapp</li>
-<li>حل مشكلة الانهيار عند استماع مقطع صوتي</li>
-<li>حل مشكلة قفل الرسم في اصداار7.0</li>
-<li>حل مشكلة ارسال الصور في بعض الاجهزة</li> 
-<li>اصلاح بطئ النسخة عند تشغيل المؤثرات</li> 
-<li>اصلاح جميع مشاكل النسخة</li> 
-<li>Peace, mercy and blessings of God</li>
-<li>Update NYWhatsApp</li>
-<li>Issue No. (1.00)</li>
-<li>The update is correct for all problems</li>
-<li>com.nywhatsapp</li>
-<li>com.nywhatsapp1</li>
-<li>com.whatsapp</li>
-<li>Solving the problem of collapse when listening to a sound clip</li>
-<li>Solve the problem of drawing lock in version 7.0</li>
-<li>Solve the problem of sending images in some devices</li>
-<li>Fix slow version when running effects</li>
-<li>Fix all version problems</li>
 
-","url":"http://youssef2android.blogspot.com"
+<li>رقم الاصدار (1.1)</li>
+
+<li>تحديث NYWhatsApp  على اصدار 2.18.80 في سوق بلاي</li>
+
+<li>com.nywhatsapp</li>
+<li>com.nywhatsapp1</li>
+<li>com.nywhatsapp2</li>
+<li>com.whatsapp</li>
+
+<li>ماهي الاضافات</li>
+
+<li>(الشاشة الرئيسية)</li>
+
+<li>* اضافة متصفح انترنت خاص بي نسخة NYWhatsApp يدعم جميع  الاجهزة</li>
+
+<li>*اضافة كاسر بروكسي داخل NYWhatsApp  لفك حظر الواتس اب في الدول المحظورة يدعم جميع الاجهزة</li>
+
+<li>*اضافة خيار لارسال رسالة لرقم غير محفوظ مع امكانية دمج الرسالة والرقم برابط ...امكانية تغير اللغة</li>
+
+<li>*اضافة زر عائم بلس خامس( للاتصال او ارسال رسالة بشكل مباشر )بدون حفظ الرقم يتضمن لوحة رقمية</li>
+
+<li>(هذه القائمة عن الاضافات الجديدة داخل اعدادات بلس )</li>
+
+<li>*اضافة قفل ارقام جديد</li>
+
+<li>*اضافة قائمة لتغير لون وخط القفل</li>
+
+<li>*اضافة خيار لاسترجاع كلمة المرور عبر كود الامان في حال نسيانه</li>
+
+<li>*اضافة خيار لاسترجاع  كلمة المرور عن طريق الايميل في حال نسيانه (ملاحظة اذهب الى اعدادات القفل ومن ثم ضع البريد الالكتروني في حال احتجته لاحقا</li>
+
+<li>*اضافة خيار  لتغيير كلمة المرور</li>
+
+<li>*تعديلات على قفل الرسم عند تفعيله ستظهر الصورة الخاصة بشاشة هاتفك عند رسم قفل /او فتح القفل</li>
+
+<li>* اصبح قفل الرسم /قفل النمط/قفل الارقام القديم/قفل الارقام الجديد /يعمل على الشاشة الرئيسية</li>
+
+<li>* اضافة خيار لارسال رسالة الى رقم غير محفوظ  مع امكانية تحديد النسخة التي تريد فتح الرقم عليها</li>
+
+<li>*اضافة خيار لكتابة ملاحظات داخل NYWhatsApp وحفظها داخل الواتس اب تدعم تغيير الثيم  عدد احرف غير محدود</li>
+
+<li>*اضافة خطوط جديدة  ٢٠١٨</li>
+
+<li>*اضافة خيار لعرض قائمة الاسماء بدلا من سجل المكالمات</li>
+
+<li>*اضافة خيار لعرض قائمة الاسماء بدلا من الحالة</li>
+
+<li>*اضافة خيار لانشاء اختصار للتطبيق</li>
+
+<li>*اضافة خيارات لتعديل عرض الاسم  واخفاء في شاشة الدردشة</li>
+
+<li>*اضافة خيار لتغير  مشغل الفيديو من الافتراضي الى المشغل  الخاص بك</li>
+
+<li>*اضافة خيار للعودة الى الواجهة ٢٠١٤</li>
+
+<li>اضافة خيار لعرض الحالة تحت الاسم في الشاشة الرئيسية</li>
+
+<li>*اضافة اشكال جديدة  للمؤثرات المتحركة  ليصبح العدد(١١)</li>
+
+<li>والمزيد.......</li>
+
+<li>*هذه الاضافات داخل اعدادات المحادثة المخفية اضغط على كلمة  NYWhatsApp ضع النمط /اضغط على ايقونة الاعدادات</li>
+
+<li>*اضافة خيار لاخفاء الاسم من الشاشة الرئيسية</li>
+
+<li>*اضافة خيار لاخفاء الاسم من شاشة الستوري</li>
+
+<li>*اضافة خيار لاخفاء الاسم من شاشة المكالمات</li>
+
+<li>*اضافة خيار لاخفاء الاسم  من قائمةةالاسماء</li>
+
+<li>*اضافة خيار لاخفاء الاسم من قائمةوالمشاركين في المجموعة</li>
+
+<li>(هذه الاضافات في شاشة الدردشة)في قائمة الاعدادات</li>
+
+<li>*اضافة خيار لتكرار الكلمات كل ماعليك كتابة الكلمة ومن ثم تحديد عدد الكلمات ٢٠٠٠٠٠٠٠٠  نسخ /لصق/ امكانية المشاركة</li>
+
+<li>*اضافة خيار خيار لقفل جميع المحادثات بكلمة سر</li>
+
+<li>*اضافة خيار لقفل المحادثة بشكل مخصص/لكل محادثة قفل معين/تدعم قفل النمط/وقفل الارقام</li>
+
+<li>*اضافة خيار لتحديد نوع القفل في المحادثة</li>
+
+<li>*اضافة خيار  يوجد العديد من الحالات مع اماكانية نسخ الحالة وارسالها دون الخروج من المحادثة/تدعم الثيم/حجم الخط /صوت نقرات/تكبير وتصغير الكلمات/نسخ/وخيارات عديدة</li>
+
+<li>*اصلاح خيار الترجمة واضافة ثلاثة لغات اضافية للترجمة</li>
+
+<li>*هذه الاضافات في( اعدادات من اصبح متصل)</li>
+
+<li>(من اصبح متصل)</li>
+
+<li>*اضافة خيار لتغير نغمة من اصبح متصل على انفراد</li>
+
+<li>*اضافة خيار لتغير مكان ظهور التنبيه اعلى /وسط الشاشة/يمين الشاسة على انفراد</li>
+
+<li>*اضافة خيار لتغير لون الاشعار على انفراد</li>
+
+<li>*اضافة خيار لتغير لون كلمة الاشعار على انفراد</li>
+
+<li>*زيادة عدد الثواني للاشعار ١٨ ثانية بدلا من ٩</li>
+
+<li>(صورة الاصدقاء)</li>
+
+<li>*اضافة خيار لتغير نغمة من قام بتغير صورته الشخصية على انفراد</li>
+
+<li>*اضافة خيار لتغير مكان ظهور التنبيه اعلى /وسط الشاشة/يمين الشاسة على انفراد</li>
+
+<li>*اضافة خيار لتغير لون الاشعار على انفراد</li>
+
+<li>*اضافة خيار لتغير لون كلمة الاشعار على انفراد</li>
+
+<li>*زيادة عدد الثواني للاشعار ١٨ ثانية بدلا من ٩</li>
+
+<li>(الحالة الستوري)</li>
+
+<li>*اضافة خيار لتغير نغمة من قام بمشاهد حالتك/الستوري على انفراد</li>
+
+<li>*اضافة خيار لتغير مكان ظهور التنبيه اعلى /وسط الشاشة/يمين الشاسة على انفراد</li>
+
+<li>*اضافة خيار لتغير لون الاشعار على انفراد</li>
+
+<li>*اضافة خيار لتغير لون كلمة الاشعار على انفراد</li>
+
+<li>*زيادة عدد الثواني للاشعار ١٨ ثانية بدلا من ٩</li>
+
+<li>اضافات جديدة في( اعدادات الالوان)</li>
+
+<li>*اضافة قائمة جديدة لتغير جميع  الوان في قائمة الرسائل المميزة بنجمة</li>
+
+<li>*اضافة قائمة جديدة لتغير جميع الوان الويدجت</li>
+
+<li>*اضافة قائمة مختصة بالوان الشريط الشفاف</li>
+
+<li>*اضافة خيار لتغير الشريط الشفاف في الارشيف</li>
+
+<li>*اضافة خيار لتغير الشريط الشفاف في قائمة الاسماء</li>
+
+<li>*اضافة خيار لتغير الشريط الشفاف في اعدادات بلس</li>
+
+<li>*اضافة خيار لتغير الشريط الشفاف في قائمة الرسائل المميزة بنجمة</li>
+
+<li>*اضافة خيار لتغير خلفية الحالة الستوري بشكل منفصل عن شاشة المحادثة</li>
+
+<li>*اضافة خيار  لتحديد التدرج للحالة</li>
+
+<li>*اضافة خيار لتغير لون التدرج للحالة</li>
+
+<li>*اضافة خيار لتغير لون خلفية قائمة تحديد الاسماء</li>
+
+<li>*اضافة خيار لتحديد التدرج لقائمة تحديد الاسماء</li>
+
+<li>*اضافة خيار لتغير لونوالتدرج لقائمة تحديد الاسماء</li>
+
+<li>*اضافة خيار لتغير لون اسم قائمة جديدة اضافة مشاركين</li>
+
+<li>*اضافة خيار لتغير لون الازرار الرسمية والوان الايقونات</li>
+
+<li>*اضافة خيار لتغير لون زر الستاتس الكتابة وخيار للايقونة</li>
+
+<li>*اضافة خيار لتغير لون ايقونة النسخ في شاشة الدردشة</li>
+
+<li>*اضافة خيار لتغير لون ايقونة الحذف في شاشة الدردشة</li>
+
+<li>*اضافة خيار لتغير لون ايقونة النسخ في شاشة الدردشة</li>
+
+<li>*اضافة خيار لتغير لون ايقونة النجمة في قائمة التحديد في شاشة الدردشة</li>
+
+<li>*اصلاح جميع الانهيارات</li>
+
+<li>والعديد من الخيارات الجديدة..</li>
+
+<li>انتظروني في تحديث جديد</li>
+
+<li>english</li>
+
+<li>NYWhatsApp V_ (1.1)</li>
+
+<li>Updated NYWhatsApp on a 2.18.80 release in the PlayStation Marketplace</li>
+
+<li>What are the additions?</li>
+
+<li>(main screen)</li>
+
+<li>* Add a web browser to my own version NYWhatsApp supports all setups</li>
+
+<li>* Add a proxy breaker within NYWhatsApp to unblock the Watsp plug in blocked states Supports all devices</li>
+
+<li>* Add an option to send a message to an unsaved number with the possibility to merge the message and number with the link ... Possibility to change the language</li>
+
+<li>* Add a fifth floating button (to connect or send a message directly) without saving the number includes a numeric keypad</li>
+
+(This list is for new additions within the Plus settings)</li>
+
+<li>* Add new lock numbers</li>
+
+<li>* Add a list to change the color and the lock line</li>
+
+<li>* Add an option to retrieve the password via the security code if forgotten</li>
+
+<li>* Add an option to retrieve the password by e-mail if forgotten (Note Go to the settings of the lock and then put the email in case I need it later</li>
+
+<li>* Add option to change your password</li>
+
+<li>* Changes to the graphic lock When activated, the picture of your phone screen will appear when you lock / unlock or unlock</li>
+
+<li>* Become lock drawing / lock style / lock old numbers / lock new numbers / works on home screen</li>
+
+<li>* Add an option to send a message to an unsaved number with the possibility to specify the version you want to open the number on</li>
+
+<li>* Adding an option to write notes within NYWhatsApp and save them within Outlook supports variable number change in unlimited characters</li>
+
+<li>* Adding new lines</li>
+
+<li>* Add an option to display the list of contacts instead of the call log</li>
+
+<li>* Add option to display list of names instead of status</li>
+
+<li>* Add an option to create an application shortcut</li>
+
+<li>* Add options to modify the name display and hide in the chat screen</li>
+
+<li>* Add option to change the video player from default to your player</li>
+
+<li>* Add option to return to the interface 2014</li>
+
+Add an option to display the status under the name on the Home screen</li>
+
+<li>* Adding new forms of animation effects to become the number (11)</li>
+
+<li>And more .......</li>
+
+<li>* These additions within the settings of the hidden conversation Click on the word NYWhatsApp Place the style / click on the Settings icon</li>
+
+<li>* Add an option to hide the name from the main screen</li>
+
+<li>* Add an option to hide the name from the Story screen</li>
+
+<li>* Add an option to hide the name from the call screen</li>
+
+<li>* Add an option to hide the name from the list of names</li>
+
+<li>* Add an option to hide the name from the list of participants in the group</li>
+
+(These are added to the chat screen) in the settings menu</li>
+
+<li>* Add an option to repeat the words each you write the word and then select the word number 200000000 copies / paste / share possibility</li>
+
+<li>* Add option option to lock all conversations with a password</li>
+
+<li>* Add option to lock the conversation custom / each conversation lock specific / Supports style lock / lock numbers</li>
+
+<li>* Add option to specify the type of lock in the conversation</li>
+
+<li>* Adding an option with thousands of cases with the possibility of copying and sending the status without leaving the conversation / supports the theme / font size / voice clicks / zoom and reduce words / copy / and many options</li>
+
+<li>* Repair the translation option and add three additional languages ​​for translation</li>
+
+<li>* These additions are in (settings of become connected)</li>
+
+(Who became connected)</li>
+
+<li>* Add an option to change the ringtone from being connected individually</li>
+
+<li>* Add an option to change where the alarm appears up / down the screen / right of the sensor individually</li>
+
+<li>* Add option to change notification color individually</li>
+
+<li>* Add option to change the color of the notification word individually</li>
+
+<li>* Increase the number of seconds to notice 18 seconds instead of 
+
+(Picture Friends)</li>
+
+<li>* Add an option to change the tone of the person who changed his personal picture individually</li>
+
+<li>* Add an option to change where the alarm appears up / down the screen / right of the sensor individually</li>
+
+<li>* Add option to change notification color individually</li>
+
+<li>* Add option to change the color of the notification word individually</li>
+
+<li>* Increase the number of seconds to notice 18 seconds instead of 9
+
+(The Storia)</li>
+
+<li>* Add an option to change the tone of your scenes / Alasturi individually</li>
+
+<li>* Add an option to change where the alarm appears up / down the screen / right of the sensor individually</li>
+
+<li>* Add option to change notification color individually</li>
+
+<li>* Add option to change the color of the notification word individually</li>
+
+<li>* Increase the number of seconds to notice 18 seconds instead of 9
+
+New additions in (color settings)</li>
+
+<li>* Add a new list to change all colors in the starred message list</li>
+
+<li>* Add a new menu to change all the colors of the widget</li>
+
+<li>* Add a list of colors for transparent tape</li>
+
+<li>* Add option to change the transparent tape in the archive</li>
+
+<li>* Add an option to change the transparency bar in the list of names</li>
+
+<li>* Add option to change the transparent tape in Plus settings</li>
+
+<li>* Add an option to change the transparent bar in the starred message list</li>
+
+<li>* Add option to change the background of the status of the storied separately from the conversation screen</li>
+
+<li>* Add option to specify the gradient of the case</li>
+
+<li>* Add option to change the gradient color of the case</li>
+
+<li>* Add option to change the background color of the selection list names</li>
+
+<li>* Add an option to specify the hierarchy for the list of names</li>
+
+<li>* Add an option to change the color and gradient to the list of select names</li>
+
+<li>* Add an option to change the color of a new list name and add participants</li>
+
+<li>* Add option to change the color of official buttons and colors icons</li>
+
+<li>* Add option to change the color of the write button and the icon option</li>
+
+<li>* Add an option to change the color of the Copy icon in the chat screen</li>
+
+<li>* Add an option to change the color of the delete icon in the chat screen</li>
+
+<li>* Add an option to change the color of the Copy icon in the chat screen</li>
+
+<li>* Add an option to change the color of the star icon in the selection menu in the chat screen</li>
+
+<li>And many new options ..</li>
+
+<li>Wait for me in a new update</li>
+
+","url":"http://youssef2android.blogspot.com/2018/04/nywhatsapp-v100.html"
 }
