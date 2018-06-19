@@ -1,5 +1,5 @@
-{"version_code":451203,"content":"
-<p>تحديث 3.80</p>
+{"version_code":451205,"content":"
+<p>تحديث 4.00</p>
 
 <li>التحديث لنسخة الماركت 2.18.46</li>
 <li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
@@ -53,5 +53,5 @@
 <li> Fixed Hidden Group Opening from Groups in Common</li>
 <li> Many More Fixes</li>
 
-","url":"h"
+","url":"http://daiyshomis.blogspot.com/2018/04/dawhatsapp.html"
 }
