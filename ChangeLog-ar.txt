@@ -1,4 +1,4 @@
-{"version_code":4512010,"content":"
+{"version_code":451209,"content":"
 <p>تحديث جديد V4.80</p>
 
 <li>تحديث جديد ISWhatsapp V4.80</li>
