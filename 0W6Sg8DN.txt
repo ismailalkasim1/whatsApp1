@@ -1,0 +1,47 @@
+ENInstagram V16. By Esmaeel Alkaseem & Altornedo7:
+
+>Update to Markets version 100.0.0.17.129
+>You can hide that you have watched stories
+>You can read the message
+>You can hide writing
+>You can translate texts in comments
+>You can change the message box design in the chat screen
+>You can browse the links from within the app
+>You can cancel the impressive double pressure to Like
+>You can zoom in and out of the image
+>You can download photos and videos from the store
+>You can upload photos and videos from publications
+>You can disable the left-right drag to navigate between the application and your interface
+>You can change the design of the main interface of Instagram
+>You can set a lock for the Instagram application
+>You can download themes and apply them
+>You can change the color of the top bar in the Profile screen
+>You can change the color of the icons in the top bar of the Profile screen
+>You can change the color of the store rows in the top bar of the Profile screen
+>You can change the color of the top bar in the comments screen
+>You can change the color of the top bar in the comments screen
+>You can change the color of the names in the comments screen
+>You can change the comment color in the comments screen
+>You can change the hashtag in the comments screen
+>You can change the display color of all comments in the Comments dialog box
+>You can change the color of more ... in the comments screen
+>You can change the comment date in the comments screen
+>You can change the color of the number of likes in the comments screen
+>You can change the color of a reply to a comment in the comments screen
+>You can change the story of wallpaper
+>You can change the color of the name in the store
+>You can change the color of the name of the story seen in the story
+>You can change the color of the View All in the Store
+>You can change the color of stories in the story
+>You can change the full color of my main interface
+>You can change the color of the top bar in the main interface
+>You can change the color of the icons in the top bar in the main interface
+>You can change the color of the word Instagram in the top bar in the main interface
+>You can use the IGTV video platform
+>You can request a blue verification badge for your profile
+>You can ask questions in the story.
+>>You can make Tag in the story.
+>You can add a music clip in the story
+>You can highlight conversations in your section
+>Activate the activity status feature (last seen) to see the presence of connected friends in the program
+>Other fixes
