@@ -1,9 +1,9 @@
-{"version_code":451209,"content":"
+{"version_code":4512011,"content":"
 <p>تحديث جديد V4.80</p>
 
-<li>تحديث جديد ISWhatsapp V4.80</li>
-<li>New Update For ISWhatsapp V4.80</li>
+<li>تجريب</li>
+<li>Test</li>
 
 
-","url":"https://esmaeel.deviswa.com/2019/04/iswhatsapp-v480-iswagold.html"
+","url":"https://twitter.com/ismailalkasim11"
 }
