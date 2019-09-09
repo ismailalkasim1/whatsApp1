@@ -1,4 +1,4 @@
-{"version_code":4512011,"content":"
+{"version_code":9999999,"content":"
 <p>تحديث جديد V4.80</p>
 
 <li>تجريب</li>
