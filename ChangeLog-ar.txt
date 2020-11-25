@@ -1,71 +1,9 @@
 {"version_code":9999999,"content":"
-<p>تحديث جديد V7.00 New Update</p>
+<p>تحديث جديد V7.80 New Update</p>
 
-<li>إضافة أخفاء دردشات الواتساب (يمكنك الدخول الى المحادثات المخفية عند الضغط على كلمة (WhatsApp)</li>
-<li>إضافة خيار لاخفاء الاسم بشكل مخصص</li>
-<li>إضافة يمكنك قفل المحادثات بشكل مخصص وشكل عام</li>
-<li>إضافة يمكنك أيقاف المكالمات بشكل مخصص و شكل عام.</li>
-<li>إضافة يمكنك ايقاف السحب من اليمين الى اليسار في شاشة المحادثة مثل الانستجرام.</li>
-<li>إضافة خيار الذهاب الى الرسالة الاولى في المحادثات</li>
-<li>إضافة شكل الستوري مثل الانستجرام.</li>
-<li>إضافة الويدجيت .</li>
-<li>إضافة اختيار الحالة الذي تريد ان يتم معرفة الشخص الاخر انك شاهدتها.</li>
-<li>إضافة حذف الرسالة في اي وقت تريد.</li>
-<li>إضافة خيار لتمرير الرسيع للمكالمات وحذف الدردشة مثل الايفون.</li>
-<li>إضافة خيار تغيير نوع الخط.</li>
-<li>إضافة خيار الخروج للسحب من المحادثات.</li>
-<li>إضافة خيار تغيير شكل المحادثة في الشاشة الرئيسية</li>
-<li>إضافة خيار تغيير شكل تنقل في شاشة الرئيسية</li>
-<li>إضافة خيار تغيير حجم صورة البروفايل في الشاشة الرئيسية</li>
-<li>إضافة خيار تغيير حجم اطار البروفايل في الشاشة الرئيسية</li>
-<li>إضافة خيار تغيير حجم لون اطار البروفايل في الشاشة الرئيسية</li>
-<li>إضافة خيار تغيير حجم الستايل في الشاشة الرئيسية</li>
-<li>إضافة خيار تغيير لون الستايل في الشاشة الرئيسية
-<li>إضافة خيار تغيير لون حدود الستايل في الشاشة الرئيسية</li>
-<li>إضافة خيار تغيير ارتفاع الستايل في الشاشة الرئيسية</li>
-<li>إضافة خيار صورة مربعة لكامل الواتساب</li>
-<li>إضافة خيار تغيير حجم الاسطر في الشاشة الرئيسية</li>
-<li>إضافة خيار عرض اخر ظهور الاشخاص في الشاشة الرئيسية</li>
-<li>إضافة خيار تعطيل الضغط على كلمة WhatsApp في الشاشة الرئيسية</li>
-<li>إضافة خيار وضع خلفية مختلفة لكل محادثة</li>
-<li>إضافة خيار وضع خلفية البروفايل لكل محادثة</li>
-<li>إضافة خيار تغير شكل صندوق الارسال في شاشة المحادثة</li>
-<li>إضافة خيار لعرض صورتي داخل الفقاعة وخارج الفقاعة</li>
-<li>إضافة خيار الفاب في شاشة المحادثة لعمل نص تفجيري وارسال رموز تعبيرية</li>
-<li>إضافة خيار لأخفاء الصور والفيديوهات المستلمة</li>
+<li>تجربة فقط</li>
 
-<li>Added Hide WhatsApp chats (You can enter hidden conversations when clicking on a word (WhatsApp)</li>
-<li>Added Option to hide the name custom</li>
-<li>Added You can lock conversations privately publicly</li>
-<li>Added You can Stop calls in general.</li>
-<li>Added You can stop swiping from right to left in the chat screen like Instagram.</li>
-<li>Added The option to go to the first message in the Nessage</li>
-<li>Added Status like Instagram in Main Screen.</li>
-<li>Added Widget .</li>
-<li>Added Choose the status in which you want the other person to know that you have seen them.</li>
-<li>Added Delete the message any time you want.</li>
-<li>Added Option of swiping calls and deleting the chat like iPhone.</li>
-<li>Added Option to change the font type.</li>
-<li>Added Option to to swip to close conversations.</li>
-<li>Added Option to change the Design of the conversation on the main screen</li>
-<li>Added Option to change the navigation format in the main screen</li>
-<li>Added Option to resize the profile image in the main screen</li>
-<li>Added Option to resize the profile window in the main screen</li>
-<li>Added Option to change the size of the profile frame color in the main screen</li>
-<li>Added Option to change the size of the style in the main screen</li>
-<li>Added Option to change the color of the style in the main screen</li>
-<li>Added Option to change the style border color in the main screen</li>
-<li>Added Option to change the style height in the main screen</li>
-<li>Added Full square image option for WhatsApp</li>
-<li>Added Option to change the size of the lines in the main screen</li>
-<li>Added Option to display the last persons appearing on the main screen</li>
-<li>Added Option to disable pressing WhatsApp on the home screen</li>
-<li>Added Option to set a different background for each conversation</li>
-<li>Added Option to set the profile background for each conversation</li>
-<li>Added Option to change the form of the mailbox in the chat screen</li>
-<li>Added An option to display my picture inside the bubble and outside the bubble</li>
-<li>Added Fab option in the chat screen to make an explosive text and send emojis</li>
-<li>Added Option to hide received photos and videos</li>
+<li>Only Test</li>
 
 ","url":"https://www.iswateam.xyz/2019/07/iswhatsapp-iswagold-lite.html"
 }
